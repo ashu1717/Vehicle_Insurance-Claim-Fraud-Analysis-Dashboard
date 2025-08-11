@@ -2,6 +2,9 @@
 
 This project analyzes vehicle insurance claims to identify fraudulent activities using interactive dashboards and visual analytics.
 
+<img width="2092" height="1220" alt="image" src="https://github.com/user-attachments/assets/24272750-b94c-4667-bc23-e86a42000838" />
+
+
 ## 📊 Dashboard Overview
 The dashboard provides insights into:
 - **Fraud Rate** by gender, marital status, and age groups
