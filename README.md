@@ -8,26 +8,12 @@ The dashboard provides insights into:
 - **Top vehicle makes** involved in fraud claims
 - **Fraud by policy type** and vehicle category
 - **Fraud trends** by age of vehicle and price
-
-
-
-## 📁 Project Structure
-├── dashboard/
-│ ├── Vehicle_Fraud.pdf # PDF version of the dashboard
-│
-├── images/
-│ └── dashboard_preview.png # Screenshot of the dashboard
-│
-├── LICENSE # Project license (MIT)
-└── README.md # Project documentation
-
-
-
+  
 ## 📥 How to Use
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Vehicle_Insurance-Claim-Fraud-Analysis-Dashboard.git
+   git clone https://github.com/ashu1717/Vehicle_Insurance-Claim-Fraud-Analysis-Dashboard.git
 ---
 
 ## 🛠 Tools & Technologies
