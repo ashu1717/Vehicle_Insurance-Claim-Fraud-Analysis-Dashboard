@@ -12,9 +12,22 @@ The dashboard provides insights into:
 
 
 ## 📁 Project Structure
+├── dashboard/
+│ ├── Vehicle_Fraud.pdf # PDF version of the dashboard
+│
+├── images/
+│ └── dashboard_preview.png # Screenshot of the dashboard
+│
+├── LICENSE # Project license (MIT)
+└── README.md # Project documentation
 
 
 
+## 📥 How to Use
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Vehicle_Insurance-Claim-Fraud-Analysis-Dashboard.git
 ---
 
 ## 🛠 Tools & Technologies
@@ -35,14 +48,20 @@ The dashboard provides insights into:
 2. Open in Power BI / PDF viewer
 3. Filter data interactively (if using PBIX)
 
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+🤝 Contributing
+Contributions are welcome!
+If you have suggestions for improving the dashboard or expanding the analysis:
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss.
+Fork the repository
+
+Create a new branch (feature-idea)
+
+Commit changes
+
+Open a Pull Request
 
 ---
+⭐ Acknowledgments
+Special thanks to the open-source community and the creators of Power BI & Excel for enabling powerful, visual analytics.
